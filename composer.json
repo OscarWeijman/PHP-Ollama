@@ -1,8 +1,8 @@
 {
     "name": "oscarweijman/php-ollama",
+    "description": "Een moderne PHP library voor het werken met Ollama API, vanaf PHP 8.2",
     "type": "library",
     "license": "MIT",
-    "version": "1.0.0",
     "autoload": {
         "psr-4": {
             "OscarWeijman\\PhpOllama\\": "src/"
